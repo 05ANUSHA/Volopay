@@ -1,5 +1,4 @@
 require_relative '../airline_seating'
-# require 'pry'
 
 describe AirlineSeating do
   describe 'method#initialize' do
